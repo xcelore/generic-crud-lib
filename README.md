@@ -1,4 +1,4 @@
-# xcelore-generic-crud-lib
+# generic-crud-lib
 A reusable **Spring Boot–based Generic CRUD service** built with **Java 17+** and **Maven**, providing standard Create, Read, Update, Delete, and Search functionality.
 
 This project is designed to act as a **base CRUD library/service** that can be extended across multiple domain entities while ensuring consistent auditing, soft deletion, and clean request/response mapping.
